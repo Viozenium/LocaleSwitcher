@@ -1,0 +1,12 @@
+dist/
+build/
+OLD/
+
+locale_Switcher.spec
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+*.DS_Store
